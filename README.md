@@ -18,7 +18,7 @@ An end-to-end Exploratory Data Analysis (EDA) project analyzing Netflix's catalo
 ├── data/
 │   └── netflix_cleaned.csv          # Pre-processed dataset
 ├── sql/
-│   ├── schema.sql                   # Table creation script
+│   ├── Database_Schema.sql          # Table creation script
 │   └── eda_queries.sql              # Exploratory SQL queries
 └── README.md                        # Project documentation
 
@@ -45,7 +45,7 @@ CREATE TABLE netflix_titles (
     primary_genre VARCHAR(100)
 );
 
-⚙️ Setup & Execution Guide
+## ⚙️ Setup & Execution Guide
 
 1. Clone the repository:
 
