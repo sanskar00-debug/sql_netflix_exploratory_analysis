@@ -21,8 +21,9 @@ An end-to-end Exploratory Data Analysis (EDA) project analyzing Netflix's catalo
 │   ├── Database_Schema.sql          # Table creation script
 │   └── eda_queries.sql              # Exploratory SQL queries
 └── README.md                        # Project documentation
+```
 
-🗄️ Database Schema
+## 🗄️ Database Schema
 The dataset was imported into a dedicated table netflix_titles:
 
 SQL
@@ -44,7 +45,7 @@ CREATE TABLE netflix_titles (
     primary_country VARCHAR(100),
     primary_genre VARCHAR(100)
 );
-```
+
 
 ## ⚙️ Setup & Execution Guide
 
