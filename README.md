@@ -44,6 +44,7 @@ CREATE TABLE netflix_titles (
     primary_country VARCHAR(100),
     primary_genre VARCHAR(100)
 );
+```
 
 ## ⚙️ Setup & Execution Guide
 
