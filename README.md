@@ -1,6 +1,9 @@
 # 🎬 Netflix Movies & TV Shows — SQL Exploratory Data Analysis (EDA)
 
 An end-to-end Exploratory Data Analysis (EDA) project analyzing Netflix's catalog using MySQL Workbench. This project investigates content distribution, genre trends, release timeline patterns, and country-level contributions.
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Analytics](https://img.shields.io/badge/Exploratory_Data_Analytics-red?style=for-the-badge)
+
 
 ---
 
